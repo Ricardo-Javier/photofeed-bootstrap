@@ -1,0 +1,15 @@
+.postpage {
+    background-color: #e2e2e2e7;}
+
+
+.container card {
+    background-color: white;
+}
+
+h6 {text-align: right;
+width: 50%;
+padding:13px;}
+
+.title {padding:20px;}
+
+.form-control{max-height: 40px;}
